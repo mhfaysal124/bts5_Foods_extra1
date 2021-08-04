@@ -1,0 +1,529 @@
+/* ###########  Extra small devices (portrait phones, less than 576px) ###########  */
+@media (max-width: 575.98px) {
+    /*Header start*/
+    .logo {
+        max-width: 75%;
+    }
+    .c_menu {
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    /*Header end*/
+    /*slider start*/
+    .slider_text_aria{
+        margin: 40px 0;
+    }
+    .slider_title {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .slider_text {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .slider_btn{
+        font-size: 16px;
+        padding: 5px 20px;
+    }
+    
+    /*slider end*/
+    
+    /*popular_manu start*/
+        /*popular_manu (((( Header ))))) Start*/
+        .pm_text_aria {
+            padding: 0 0;
+            margin: 30px 0;
+        }
+        .pm_header {
+            font-size: 30px;
+            margin-bottom: 16px;
+        }
+        .pm_text {
+            font-size: 16px;
+        }
+        /*Title section start*/
+        .bg_color_2 {
+            padding: 30px 0;
+        }
+    /*img aria start*/
+      
+    .title_1_img{
+        padding: 0 10%;
+    }
+        /*img aria End*/
+        /*text aria start*/
+    .title_1_text_aria{
+        padding: 30px 0px 0px;
+        text-align: center;
+    }
+    .title_1_title{
+        font-size: 42px;
+        margin-bottom: 10px;
+    }
+    .title_1_text{
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+    .title_1_btn{
+        padding: 6px 60px;
+        font-size: 20px;
+    }
+
+
+        /*text aria End*/
+    /*Title section End*/
+        .wrapper_card{
+            margin-top: 0;
+            margin-bottom: 30px;
+        }
+        
+        /*popular_manu (((( Header ))))) End*/
+    /*popular_manu  End*/
+    /*profile start*/
+    .profile_img{
+
+    }
+    .profile_wrapper{
+        padding: 30px 0;
+    }
+    .profile_text {
+        font-size: 16px;
+    }
+    .profile_name {
+        font-weight: 700;
+        font-size: 30px;
+    }
+    /*profile End*/
+    .m_top {
+        margin-top: -490px;
+    }
+    .s_common {
+        font-size: 20px;
+        text-align: center;
+    }
+    .sbox_inner {
+        padding: 0.375rem 3rem;
+        width: 100%;
+        display: block;
+        margin-bottom: 10px;
+    }
+    .s_box {
+        position: relative;
+        margin: 25px 0 0;
+    }
+    .sbox_btn {
+        position: inherit;
+        width: 100%;
+        left: 0%;
+    }
+    .sbox_btn:hover{
+        transform: scale(0.9);
+        left: 0%;
+    }
+    /*title_2 End*/
+    
+    /*Footer start*/
+    .bg_color_4{
+        padding: 30px 0;
+    }
+    .font_color h2 {
+        margin-top: 15px;
+        margin-bottom: 10px;
+        text-align: center;
+        border-bottom: 1px solid #ffffff;
+    }
+    /*Footer End*/
+        
+ }
+
+/* ###########  Small devices (landscape phones, 576px and up) ###########  */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /*Header start*/  
+    .logo {
+        max-width: 75%;
+    }  
+    .c_menu {
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    /*Header end*/
+    /*slider start*/
+    .slider_text_aria{
+        margin: 60px 0;
+    }
+    .slider_title {
+        font-size: 65px;
+        margin-bottom: 30px;
+    }
+    .slider_text {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+    .slider_btn{
+        font-size: 20px;
+    }
+    /*slider end*/
+    /*popular_manu start*/
+        /*popular_manu (((( Header ))))) Start*/
+        .pm_text_aria {
+            padding: 0 30px;
+        }
+        .pm_header {
+            font-size: 30px;
+            margin-bottom: 16px;
+        }
+        .pm_text {
+            font-size: 16px;
+        }
+        /*popular_manu (((( Header ))))) End*/
+    /*popular_manu  End*/
+
+       /*img aria start*/
+.bg_color_2{
+    background-color: #f76c00;
+    padding: 60px 0;
+}   
+.title_1_img{
+
+}
+    /*img aria End*/
+    /*text aria start*/
+.title_1_text_aria{
+    padding: 30px 0 0 0;
+    padding-left: 0;
+    text-align: center;
+}
+.title_1_title{
+    font-size: 65px;
+    margin-bottom: 30px;
+}
+.title_1_text{
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+/*Title section start*/
+    /*img aria start*/
+      
+    .title_1_img{
+        padding: 0 25%;
+    }
+        /*img aria End*/
+        /*text aria start*/
+    .title_1_text_aria{
+        padding: 30px 0px 0px;
+        text-align: center;
+    }
+    .title_1_title{
+        font-size: 42px;
+        margin-bottom: 10px;
+    }
+    .title_1_text{
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+    .title_1_btn{
+        padding: 6px 60px;
+        font-size: 20px;
+    }
+
+
+        /*text aria End*/
+    /*Title section End*/
+.wrapper_card{
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+    /*text aria End*/
+    /*profile start*/
+    .profile_wrapper{
+        padding: 60px 0;
+    }
+    .profile_text {
+        font-size: 21px;
+    }
+    .profile_name {
+        font-weight: 700;
+        font-size: 30px;
+    }
+    /*profile End*/
+    /*title_2 Start*/
+    .m_top {
+        margin-top: -460px;
+    }
+    .s_common{
+        font-size: 22px;
+    }
+    .sbox_inner {
+        padding: 0.375rem 3rem;
+        width: 100%;
+        display: block;
+        margin-bottom: 10px;
+    }
+    .s_box{
+        position: relative;
+        margin: 60px 0;
+    }
+    .sbox_btn {
+        position: inherit;
+        width: 100%;
+        left: 0%;
+    }
+    .sbox_btn:hover{
+        transform: scale(0.9);
+        left: 0%;
+    }
+    /*title_2 End*/
+    
+    /*Footer start*/
+    .bg_color_4{
+        padding: 60px 0;
+    }
+    /*Footer End*/
+}
+
+/* ###########  Medium devices (tablets, 768px and up) ###########  */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*Header start*/    
+    .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+        color: #ffffff;
+    }
+    .c_menu {
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    /*Header end*/
+    /*slider start*/
+    .slider_text_aria{
+        margin: 60px 0;
+    }
+    .slider_title {
+        font-size: 80px;
+        margin-bottom: 35px;
+    }
+    .slider_text {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+    .slider_btn{
+        font-size: 20px;
+    }
+    /*slider end*/
+    /*popular_manu start*/
+        /*popular_manu (((( Header ))))) Start*/
+        .pm_text_aria {
+            padding: 0 125px;
+        }
+        .pm_header {
+            font-size: 50px;
+            margin-bottom: 16px;
+        }
+        .pm_text {
+            font-size: 16px;
+        }
+        /*popular_manu (((( Extra design ))))) start*/
+        .over_design{
+            position: absolute;
+            top: -1.5%;
+            left: 10%;
+        }
+        .over_design_1{
+            position: absolute;
+            top: -6%;
+            right: -6%;
+        }
+        .over_design_2{
+            position: absolute;
+            top: 16%;
+            left: 5%;
+        }
+        .over_design_3{
+            position: absolute;
+            top: 68%;
+            left: -12%;
+        }
+        .over_design_4{
+            position: absolute;
+            top: 96%;
+            left: 87%;
+        }
+        .over_design_5{
+            position: absolute;
+            top: 40%;
+            left: 93.5%;
+        }
+        /*popular_manu (((( Extra design ))))) End*/
+        /*popular_manu (((( Header ))))) End*/
+    /*popular_manu  End*/
+
+/*Title section start*/
+    /*img aria start*/
+.bg_color_2{
+    background-color: #f76c00;
+    padding: 60px 0;
+}   
+.title_1_img{
+    padding: 0 25%;
+}
+    /*img aria End*/
+    /*text aria start*/
+.title_1_text_aria{
+    padding: 30px 0 0 0;
+    padding-left: 0;
+    text-align: center;
+}
+.title_1_title{
+    font-size: 65px;
+    margin-bottom: 30px;
+}
+.title_1_text{
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+    /*text aria End*/
+/*Title section End*/
+
+    /*profile start*/
+    .profile_wrapper{
+        padding: 60px 0;
+    }
+    .profile_text {
+        font-size: 28px;
+    }
+    .profile_name {
+        font-weight: 700;
+        font-size: 40px;
+    }
+    /*profile End*/
+    /*title_2 Start*/
+    .m_top {
+        margin-top: -410px;
+    }
+    .s_box{
+        position: relative;
+        margin: 80px 0 180px;
+        margin-left: 36px;
+}
+    .sbox_inner {
+        padding-right: 300px;
+    }
+    .s_btn{
+    
+    }
+    .sbox_btn{
+        position: absolute;
+        left: 59.6%;
+        top: 0;
+        background-color: #21243d;
+        transition: .3s;
+    }
+    .sbox_btn:hover{
+        transform: scale(0.9);
+        left: 60.3%;
+    }
+    /*title_2 End*/
+    /*Footer start*/
+    .bg_color_4{
+        padding: 60px 0;
+    }
+    /*Footer End*/
+
+}
+
+/* ###########  Large devices (desktops, 992px and up) ###########  */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /*Header start*/
+    .c_menu {
+        margin-left: 9%;
+        font-size: 20px;
+    }
+    /*Header end*/
+    /*slider start*/
+    .slider_title {
+        font-size: 101px;
+        margin-bottom: 35px;
+    }
+    .slider_text {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    /*popular_manu (((( Extra design ))))) start*/
+    .over_design_1{
+        position: absolute;
+        top: -6%;
+        right: -6%;
+    }
+    .over_design_3{
+        position: absolute;
+        top: 68%;
+        left: -12%;
+    }
+    .over_design_4{
+        position: absolute;
+        top: 96%;
+        left: 87%;
+    }
+    
+    /*popular_manu (((( Extra design ))))) End*/
+    /*slider end*/
+    /*profile start*/
+    .profile_text {
+        font-size: 31px;
+    }
+    /*profile End*/
+    /*title_2 Start*/
+    .s_box {
+        position: relative;
+        margin: 80px 0 180px;
+    }
+    .sbox_btn{
+        position: absolute;
+        left: 66.6%;
+        top: 0;
+        background-color: #21243d;
+        transition: .3s;
+    }
+    .sbox_btn:hover{
+        transform: scale(0.9);
+        left: 68%;
+    }
+    /*title_2 End*/
+}
+
+/* ###########  X-Large devices (large desktops, 1200px and up) ###########  */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    /*popular_manu (((( Extra design ))))) start*/
+    .over_design_3{
+        position: absolute;
+        top: 68%;
+        left: -10%;
+    }
+    .over_design_4{
+        position: absolute;
+        top: 92%;
+        left: 90%;
+    }
+    
+    /*popular_manu (((( Extra design ))))) End*/
+}
+
+/* ###########  XX-Large devices (larger desktops, 1400px and up) ###########  */
+@media (min-width: 1400px) { 
+    /*Header start*/
+    .c_menu {
+        margin-left: 20%;
+        font-size: 20px;
+    }
+    /*popular_manu (((( Extra design ))))) start*/
+    .over_design_5{
+        position: absolute;
+        top: 40%;
+        left: 95.5%;
+    }
+    .over_design_3{
+        position: absolute;
+        top: 68%;
+        left: -10%;
+    }
+    /*popular_manu (((( Extra design ))))) End*/
+    /*Header end*/
+}
