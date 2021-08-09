@@ -46,7 +46,26 @@
                   <a class="nav-link active" aria-current="page" href="#">contact</a>
                 </li>
               </ul>
-              <i class="fas fa-search d-flex search_icon d-none d-lg-block"></i>
+              <!--  Search box start  -->
+              <div class="dropdown">
+              <!--  icon  -->
+                <a class="btn c_btn_focus dropdown-toggle" href="#" role="button" id="id_search_dropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                  <i class="fas fa-search"></i>
+                </a>
+              
+                <ul class="dropdown-menu c_dropdown" aria-labelledby="id_search_dropdown">
+              <!--  search  -->
+                  <div class="row c_searchBox">
+                    <div class="col-md-10 col-10 pe-0">
+                      <input type="text" class="form-control c_form_focus" placeholder="Search" aria-label="First name">
+                    </div>
+                    <div class="col-md-2 col-2 ps-0">
+                      <button class="form-control c_form_focus"><i class="fas fa-search"></i></button>
+                    </div>
+                  </div>
+                </ul>
+              </div>
+              <!--  Search box End  -->
             </div>
   <!--Menu End-->
           </div>

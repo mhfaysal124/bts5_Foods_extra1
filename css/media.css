@@ -8,6 +8,12 @@
         margin-left: 50px;
         font-size: 20px;
     }
+    .c_dropdown[data-bs-popper] {
+        left: 0;
+    }
+    .c_searchBox {
+        width: 290px;
+    }
     /*Header end*/
     /*slider start*/
     .slider_text_aria{
@@ -145,6 +151,9 @@
     .c_menu {
         margin-left: 50px;
         font-size: 20px;
+    }
+    .c_dropdown[data-bs-popper] {
+        left: 0;
     }
     /*Header end*/
     /*slider start*/
@@ -290,6 +299,9 @@
     .c_menu {
         margin-left: 50px;
         font-size: 20px;
+    }
+    .c_dropdown[data-bs-popper] {
+        left: 0;
     }
     /*Header end*/
     /*slider start*/
